@@ -12,10 +12,6 @@ import android.widget.TextView;
 
 import static com.example.mirash.httpdariotest.LogUtils.log;
 
-
-/**
- * A login screen that offers login via email/password.
- */
 public class LoginActivity extends Activity {
     private EditText mLoginView;
     private EditText mPasswordView;
